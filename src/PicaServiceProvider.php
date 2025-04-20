@@ -1,6 +1,6 @@
 <?php
 
-namespace Sawastacks\Pica;
+namespace Sawastacks\Utils;
 
 use Illuminate\Support\ServiceProvider;
 
